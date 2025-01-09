@@ -1,0 +1,3 @@
+# README
+
+This project implements a Task Summarizer using an API to streamline the management of task data. The system fetches tasks from an integrated source, processes them through a natural language processing pipeline, and generates concise summaries for easy review. The API provides endpoints for adding, retrieving, and summarizing tasks, ensuring seamless integration into existing workflows. Built with Python and Flask, the project leverages state-of-the-art NLP libraries for accurate summarization. It is designed to enhance productivity by reducing the time spent reviewing detailed task descriptions while maintaining essential details.
